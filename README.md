@@ -4,12 +4,12 @@
 - E-mail：sugihara@ai.cs.ehime-u.ac.jp
 
 ## 学位論文
-- 卒業論文：日本語における医療用語の難易度辞書の半自動構築に関する研究
+卒業論文：日本語における医療用語の難易度辞書の半自動構築に関する研究
 
 ## 研究業績
-- 杉原 壮一郎, 梶原 智之, 二宮 崇, 若宮 翔子, 荒牧 英治. <br>
-  **日本語における医療用語の難易度辞書の半自動構築** [[pdf]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-22.pdf) <br>
-  言語処理学会第30回年次大会, pp.260-264, March 2024
+杉原 壮一郎, 梶原 智之, 二宮 崇, 若宮 翔子, 荒牧 英治. <br>
+  日本語における医療用語の難易度辞書の半自動構築. <br>
+  言語処理学会第30回年次大会, pp.260-264, March 2024.[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-22.pdf)]
 
 
 <!--
