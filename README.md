@@ -11,6 +11,10 @@
   日本語における医療用語の難易度辞書の半自動構築. <br>
   言語処理学会第30回年次大会, pp.260-264, March 2024.[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-22.pdf)]
 
+Soichiro Sugihara, Tomoyuki Kajiwara, Takashi Ninomiya, Shoko Wakamiya, Eiji Aramaki. <br>
+  Semi-automatic Construction of a Word Complexity Lexicon for Japanese Medical Terminology. <br>
+  In Proceedings of the 6th Clinical Natural Language Processing Workshop, pp.329–333, June 2024.[[PDF](https://aclanthology.org/2024.clinicalnlp-1.29.pdf)]
+
 
 <!--
 **SugiSou10/SugiSou10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
