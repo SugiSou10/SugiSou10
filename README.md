@@ -15,6 +15,9 @@ Soichiro Sugihara, Tomoyuki Kajiwara, Takashi Ninomiya, Shoko Wakamiya, Eiji Ara
   Semi-automatic Construction of a Word Complexity Lexicon for Japanese Medical Terminology. <br>
   In Proceedings of the 6th Clinical Natural Language Processing Workshop, pp.329–333, June 2024.[[PDF](https://aclanthology.org/2024.clinicalnlp-1.29.pdf)]
 
+Hiroto Kaino, Soichiro Sugihara, Tomoyuki Kajiwara, Takashi Ninomiya, Joshua B. Tanner, Shonosuke Ishiwatari. <br>
+  Utilizing Longer Context than Speech Bubbles in Automated Manga Translation. <br>
+ In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, pp.17337-17342, May 2024.[[PDF](https://aclanthology.org/2024.lrec-main.1505.pdf)]
 
 <!--
 **SugiSou10/SugiSou10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
