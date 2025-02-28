@@ -1,6 +1,7 @@
 ## プロフィール
 - 名前：杉原 壮一郎（Sugihara Soichiro）
-- 所属：愛媛大学 工学部 工学科 コンピュータ科学コース [人工知能研究室](https://sites.google.com/view/ehime-nlp/)
+- 学年：M1
+- 所属：愛媛大学大学院　理工学研究科　理工学専攻 [人工知能研究室](https://sites.google.com/view/ehime-nlp/)
 - E-mail：sugihara@ai.cs.ehime-u.ac.jp
 
 ## 学位論文
