@@ -29,7 +29,7 @@
 #### 共著
 - 西田 祥人, 濱本 惇之介, 松浦 哉太, **杉原 壮一郎**, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
   大規模言語モデルが生成した記事の自動検出. <br>
-  情報処理学会第87回全国大会, 6R-06,  March 2025.　[[**学生奨励賞**](https://www.ipsj.or.jp/award/taikaigakusei.html)]
+  情報処理学会第87回全国大会, 6R-06,  March 2025.　[**学生奨励賞**](https://www.ipsj.or.jp/award/taikaigakusei.html)
 
 ## 奨学金
 - 日揮・実吉奨学会 2024年度日本人給与奨学生（40万円）[[Link](https://www.jgcs.or.jp/business/found.html)]
