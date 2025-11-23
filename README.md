@@ -20,7 +20,7 @@
 #### 主著
 - **杉原 壮一郎**, 梶原 智之, 池田 直樹, 谷川 千尋, 二宮 崇. <br>
   矯正歯科医と大規模言語モデルの協働による効率的な自動診断に向けて. <br>
-  第24回情報科学技術フォーラム（FIT2025）,E-026, Sep 2025.　[**FIT奨励賞**](https://www.ipsj.or.jp/award/fit-syorei.html)
+  第24回情報科学技術フォーラム（FIT2025）,E-026, Sep 2025.[[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2025-sugihara.pdf)]　[**FIT奨励賞**](https://www.ipsj.or.jp/award/fit-syorei.html)
 
 - **杉原 壮一郎**, 梶原 智之, 池田 直樹, 谷川 千尋, 二宮 崇. <br>
   大規模言語モデルによる矯正歯科治療の自動診断に向けて. <br>
@@ -33,7 +33,7 @@
 #### 共著
 - 西田 祥人, 濱本 惇之介, 松浦 哉太, **杉原 壮一郎**, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
   大規模言語モデルが生成した記事の自動検出. <br>
-  情報処理学会第87回全国大会, 6R-06,  March 2025.　[**学生奨励賞**](https://www.ipsj.or.jp/award/taikaigakusei.html)
+  情報処理学会第87回全国大会, 6R-06,  March 2025.[[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-nishida.pdf)]　[**学生奨励賞**](https://www.ipsj.or.jp/award/taikaigakusei.html)
 
 ## 奨学金
 - 日揮・実吉奨学会 2024年度日本人給与奨学生（40万円）[[Link](https://www.jgcs.or.jp/business/found.html)]
