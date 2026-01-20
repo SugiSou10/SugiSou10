@@ -31,6 +31,14 @@
   言語処理学会第30回年次大会, pp.260-264, March 2024.[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-22.pdf)]
 
 #### 共著
+- 米山 瑛人, **杉原 壮一郎**, 梶原 智之, 池田 直樹, 谷川 千尋. <br>
+  所見文書とX線画像を用いた矯正歯科治療の自動診断. <br>
+  言語処理学会第32回年次大会(NLP2026).(発表予定)
+
+- 米山 瑛人, **杉原 壮一郎**, 梶原 智之, 池田 直樹, 谷川 千尋. <br>
+  所見文書とX線画像を用いた矯正歯科治療の自動診断に向けて. <br>
+  第20回言語処理若手シンポジウム(YANS2025), S5-P05, September 2025.
+
 - 西田 祥人, 濱本 惇之介, 松浦 哉太, **杉原 壮一郎**, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
   大規模言語モデルが生成した記事の自動検出. <br>
   情報処理学会第87回全国大会, 6R-06,  March 2025.[[PDF](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-nishida.pdf)]　[**学生奨励賞**](https://www.ipsj.or.jp/award/taikaigakusei.html)
